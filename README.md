@@ -11,7 +11,7 @@
 
 - 🤔 I’m looking for Open source Contributors to work on some Innovative Ideas.
 
-- <img src="https://user-images.githubusercontent.com/74038190/238201075-34376b0e-4ae2-4278-9d3d-82e8016a87d6.gif" width="30"> Check out my [Resume(https://drive.google.com/file/d/14o93m9nIrCKKh5fDb7VD2BLh1SuBcSFa/view?usp=drive_open).
+- <img src="https://user-images.githubusercontent.com/74038190/238201075-34376b0e-4ae2-4278-9d3d-82e8016a87d6.gif" width="30"> Check out my [Resume](https://drive.google.com/file/d/14o93m9nIrCKKh5fDb7VD2BLh1SuBcSFa/view?usp=drive_open).
 
 - ⚡ Fun fact that **I think I am Coddy and little bit funny👀**.
 <h3 align="left">Find me at:</h3>
