@@ -11,9 +11,7 @@
 
 - 🤔 I’m looking for Open source Contributors to work on some Innovative Ideas.
 
-- 💬 Lets connect and build something Innovative on our community [Devox Network](https://chat.whatsapp.com/L2IV9fQDrSFJgFZGjg8Pbr).
-
-- <img src="https://user-images.githubusercontent.com/74038190/238201075-34376b0e-4ae2-4278-9d3d-82e8016a87d6.gif" width="30"> Check out my [Resume](https://chat.whatsapp.com/L2IV9fQDrSFJgFZGjg8Pbr).
+- <img src="https://user-images.githubusercontent.com/74038190/238201075-34376b0e-4ae2-4278-9d3d-82e8016a87d6.gif" width="30"> Check out my [Resume(https://drive.google.com/file/d/14o93m9nIrCKKh5fDb7VD2BLh1SuBcSFa/view?usp=drive_open).
 
 - ⚡ Fun fact that **I think I am Coddy and little bit funny👀**.
 <h3 align="left">Find me at:</h3>
@@ -34,4 +32,4 @@
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
 </p><br>
   
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohsinansari0705&show_icons=true&locale=en" alt="mohsinansari0705" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohsinansari0705&show_icons=true&locale=en" alt="krrishjha" /></p>
